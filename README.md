@@ -12,3 +12,14 @@ Medical insurance costs vary widely across individuals depending on age, lifesty
 
 ## 3. Team Members & Pair Responsibilities
 Each teammate owns a separate file to keep our workflow organized and prevent merge conflicts.
+
+## 3. Team Members & Pair Responsibilities
+Each member owns an isolated file or section to prevent merge conflicts and ensure clean GitHub contributions.
+
+| Pair | Shared Task | Partner A (Name & GitHub) | Partner B (Name & GitHub) | Assigned Files / Deliverables |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pair 1** | **Data Cleaning & Organizing** | Leticia (`@username`) | Lonimi (`@username`) | `notebooks/01_data_cleaning.ipynb`, `notebooks/02_data_grouping.ipynb` |
+| **Pair 2** | **Charts & Visual Insights** | umarimran86 (`@username`) | ONYITECH (`@username`) | `notebooks/03_charts_smoking.ipynb`, `notebooks/04_charts_demographics.ipynb`, `figures/` |
+| **Pair 3** | **Prediction Models & Comparison** | Eseoghene (`@username`) | Simpllyprecious (`@username`) | `notebooks/05_model_linear.ipynb`, `notebooks/06_model_forest.ipynb` |
+| **Pair 4** | **Plain-English Report (Medium)** | Morgan (`@username`) | Tiana’s Lure (`@username`) | Published Medium Report (800–1,200 words + ≥3 charts) |
+| **Pair 5** | **Slides, Final Notebook & Submission** | Mongou Loic (`@mongou4`) | Inspire Hub (`@username`) | `notebooks/00_master_capstone.ipynb`, Presentation Slides (8–10 slides), Final Submission |
